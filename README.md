@@ -17,7 +17,7 @@ Here are so me ideas to get you started:
 -->
 
 ## 🔧 Skills
-- Programming Languages: Python, C, MySQL
+- Programming Languages: C, Python, MySQL, Javascript
 - Tools: VS Code
 
 ## 🌱 Currently Learning
