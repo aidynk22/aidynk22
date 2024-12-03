@@ -16,8 +16,12 @@ Here are so me ideas to get you started:
 -->
 
 ## 🔧 Skills
+- Programming Languages: Python, C, MySQL
+- Tools: VS Code
 
 ## 🌱 Currently Learning
+- Web Scraping
+- AI techniques and modeling
 
 ## 👯 Looking to Collaborate On
 
