@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Aidyn!
+# Hi there 👋 I'm Aidyn!
 
 <!--
 **aidynk22/aidynk22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,12 +15,12 @@ Here are so me ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 🔧 Skills
+## 🔧 Skills
 
-# 🌱 Currently Learning
+## 🌱 Currently Learning
 
-# 👯 Looking to Collaborate On
+## 👯 Looking to Collaborate On
 
-# 📫 How to Reach Me
+## 📫 How to Reach Me
 
-# 💼 Portfolio
+## 💼 Portfolio
